@@ -2,7 +2,7 @@
 
 ## Descripció del Projecte
 
-AprofitAND és un projecte en fase inicial que cerca abordar una problemàtica actual a Andorra: els negocis d'alimentació estan desprestigiant menjar que encara es pot consumir, mentre que hi ha moltes persones que tenen dificultats per permetre's comprar menjar. AprofitAND té la intenció de ser una solució a aquesta problemàtica, actuant com a pont entre aquestes dues realitats per beneficiar tant als negocis com a les persones necessitades.
+AprofitAND és un projecte en fase inicial que cerca abordar una problemàtica actual a Andorra: els negocis d'alimentació estan llençant menjar que encara es pot consumir, mentre que hi ha moltes persones que tenen dificultats per permetre's comprar menjar. AprofitAND té la intenció de ser una solució a aquesta problemàtica, actuant com a pont entre aquestes dues realitats per beneficiar tant als negocis com a les persones necessitades.
 
 El nostre objectiu és permetre que els negocis puguin publicar en aquesta web/aplicació el menjar en aquestes condicions, de manera que aquestes persones (o ONGs) puguin recollir-ho a un preu significativament més baix que el preu original. Aquesta estratègia beneficia també als negocis, ja que aconsegueixen un petit benefici en lloc dels 0€ que obtindrien si llencessin el menjar.
 
